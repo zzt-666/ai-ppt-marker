@@ -108,3 +108,4 @@ htmlcov/
 # 其他
 *.local
 .history/
+.python-version
